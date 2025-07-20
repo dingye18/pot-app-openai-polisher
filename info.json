@@ -5,7 +5,8 @@
   "display": "OpenAI Polisher",
   "homepage": "https://github.com/dingye18/pot-app-openai-polisher",
   "needs": [{ "key": "requestPath", "display": "请求地址" }, 
-            { "key": "apiKey", "display": "API 密钥" }],
+            { "key": "apiKey", "display": "API 密钥" },
+            { "key": "model", "display": "模型" }],
   "language": {
     "auto": "auto",
     "zh_cn": "zh",
